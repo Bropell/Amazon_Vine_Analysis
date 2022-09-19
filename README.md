@@ -70,3 +70,10 @@ As seen in the images above, about 51.1% of Vine member reviews were 5-stars and
 reviews were 5-stars.
 
 ## Summary
+Based on the DataFrames and results that were generated, it seems that there is some positivity bias in the Vine 
+program. This statement can be made on the fact that there was a higher percentage of 5-star reviews made by the
+Vine members versus the non-Vine members. One additional analysis that could be done here to further support this
+statement is to account for all votes instead of only using data rows where the helpful votes divided by total votes
+was greater than 50%. Even though not every vote was considered 'helpful', it would account for every single vote,
+and the difference in those numbers compared to the numbers obtained in this analysis would say something more 
+about the bias. 
